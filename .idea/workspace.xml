@@ -1,13 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75544637-05a6-4649-96b7-069f52de6ca2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    <list default="true" id="75544637-05a6-4649-96b7-069f52de6ca2" name="Default Changelist" comment="this is my last update">
+      <change afterPath="$PROJECT_DIR$/src/ARRAY6_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/armstrong5_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayofrandomnum6_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/asciivalue5_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enhancedloop6_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fibonacci5_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_tricks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labelbreak5_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops5_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patter5_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patter5_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/perfectnumber5_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prime5_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swap5_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switchclass5_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threeDarray6_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twodimensionalarray6_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/varargs6_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,9 +47,37 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="Add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Add" />
+  <component name="RunManager" selected="Application.varargs6_14">
+    <configuration name="arrayofrandomnum6_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayofrandomnum6_6" />
+      <module name="javaprojects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="enhancedloop6_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enhancedloop6_10" />
+      <module name="javaprojects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="threeDarray6_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threeDarray6_13" />
+      <module name="javaprojects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="twodimensionalarray6_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twodimensionalarray6_8" />
+      <module name="javaprojects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="varargs6_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="varargs6_14" />
       <module name="javaprojects" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -31,10 +85,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Add" />
+        <item itemvalue="Application.varargs6_14" />
+        <item itemvalue="Application.threeDarray6_13" />
+        <item itemvalue="Application.twodimensionalarray6_8" />
+        <item itemvalue="Application.enhancedloop6_10" />
+        <item itemvalue="Application.arrayofrandomnum6_6" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="75544637-05a6-4649-96b7-069f52de6ca2" name="Default Changelist" comment="" />
@@ -43,6 +102,33 @@
       <option name="presentableId" value="Default" />
       <updated>1611881422058</updated>
     </task>
+    <task id="LOCAL-00001" summary="this is my last update">
+      <created>1611881511722</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611881511722</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="this is my last update" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is my last update" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/javaprojects$loops5_6.ic" NAME="loops5_6 Coverage Results" MODIFIED="1612889409424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
