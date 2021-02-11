@@ -1,26 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75544637-05a6-4649-96b7-069f52de6ca2" name="Default Changelist" comment="this is my last update">
-      <change afterPath="$PROJECT_DIR$/src/ARRAY6_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/armstrong5_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayofrandomnum6_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/asciivalue5_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enhancedloop6_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fibonacci5_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_tricks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/labelbreak5_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops5_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patter5_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patter5_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/perfectnumber5_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prime5_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swap5_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switchclass5_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threeDarray6_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twodimensionalarray6_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/varargs6_14.java" afterDir="false" />
+    <list default="true" id="75544637-05a6-4649-96b7-069f52de6ca2" name="Default Changelist" comment="this is my work from feb 9 day2">
+      <change afterPath="$PROJECT_DIR$/src/constructor7_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation8_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/importstatic7_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticblock7_16.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +23,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1nimjI4o5p0np38RG31RrJK1bBC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,30 +40,30 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.varargs6_14">
-    <configuration name="arrayofrandomnum6_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrayofrandomnum6_6" />
+  <component name="RunManager" selected="Application.encapsulation8_2">
+    <configuration name="constructor7_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructor7_5" />
       <module name="javaprojects" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="enhancedloop6_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enhancedloop6_10" />
+    <configuration name="encapsulation8_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encapsulation8_2" />
       <module name="javaprojects" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="threeDarray6_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threeDarray6_13" />
+    <configuration name="importstatic7_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="importstatic7_17" />
       <module name="javaprojects" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="twodimensionalarray6_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twodimensionalarray6_8" />
+    <configuration name="staticblock7_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="staticblock7_16" />
       <module name="javaprojects" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.encapsulation8_2" />
+        <item itemvalue="Application.importstatic7_17" />
+        <item itemvalue="Application.staticblock7_16" />
+        <item itemvalue="Application.constructor7_5" />
         <item itemvalue="Application.varargs6_14" />
-        <item itemvalue="Application.threeDarray6_13" />
-        <item itemvalue="Application.twodimensionalarray6_8" />
-        <item itemvalue="Application.enhancedloop6_10" />
-        <item itemvalue="Application.arrayofrandomnum6_6" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611881511722</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="this is my work from feb 9 day2">
+      <created>1612924383987</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612924383987</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,7 +126,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="this is my last update" />
-    <option name="LAST_COMMIT_MESSAGE" value="this is my last update" />
+    <MESSAGE value="this is my work from feb 9 day2" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is my work from feb 9 day2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/javaprojects$loops5_6.ic" NAME="loops5_6 Coverage Results" MODIFIED="1612889409424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
