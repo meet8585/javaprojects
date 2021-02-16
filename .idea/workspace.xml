@@ -4,31 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75544637-05a6-4649-96b7-069f52de6ca2" name="Default Changelist" comment="this is my work from feb 10 day3">
-      <change afterPath="$PROJECT_DIR$/src/abstract8_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractcontd8_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex/cloningobject11_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex/colectionngenerics14_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex/collectionapi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex/college.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex/exceptionhandle10_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex/filehandling12_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex/multithread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex/objectserialization12_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex/propertiesoffiles12_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex/qrcodegeneration11_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex/serializationxml12_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex/student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex/userdefinedexcep10_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex/vectors14_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces8_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method_overiding8_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorhismoverloading8_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scannerclass9_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringoperation9_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thiskeyword8_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/userinput9_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wrapperclass9_7.java" afterDir="false" />
+    <list default="true" id="75544637-05a6-4649-96b7-069f52de6ca2" name="Default Changelist" comment="2/14">
+      <change afterPath="$PROJECT_DIR$/src/Innerclass15/anonymous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Innerclass15/enum15_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Innerclass15/lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Innerclass15/memberclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotation15_8/annotations18_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotation15_8/singletonclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex/duplicatevaluearraylist14_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex/mapinterface14_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex/time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadatabaseconnectivity/fornamejdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadatabaseconnectivity/jdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localization_international/.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localization_international/localiza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sgy/app.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sgy/app.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +30,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -62,19 +54,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/zxing-j2se-1.7.jar" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/mysql-connector-java-8.0.19.jar" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.vectors14_4">
-    <configuration name="colectionngenerics14_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex.colectionngenerics14_2" />
+  <component name="RunManager" selected="Application.localiza">
+    <configuration name="anonymous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Innerclass15.anonymous" />
       <module name="javaprojects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex.*" />
+          <option name="PATTERN" value="Innerclass15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="collectionapi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex.collectionapi" />
+    <configuration name="enum15_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Innerclass15.enum15_5" />
       <module name="javaprojects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex.*" />
+          <option name="PATTERN" value="Innerclass15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="multithread1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex.multithread1" />
+    <configuration name="fornamejdbc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javadatabaseconnectivity.fornamejdbc" />
       <module name="javaprojects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex.*" />
+          <option name="PATTERN" value="javadatabaseconnectivity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="objectserialization12_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex.objectserialization12_3" />
+    <configuration name="lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Innerclass15.lambda" />
       <module name="javaprojects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex.*" />
+          <option name="PATTERN" value="Innerclass15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="vectors14_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex.vectors14_4" />
+    <configuration name="localiza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="localization_international.localiza" />
       <module name="javaprojects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex.*" />
+          <option name="PATTERN" value="localization_international.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.vectors14_4" />
-        <item itemvalue="Application.colectionngenerics14_2" />
-        <item itemvalue="Application.collectionapi" />
-        <item itemvalue="Application.multithread1" />
-        <item itemvalue="Application.objectserialization12_3" />
+        <item itemvalue="Application.localiza" />
+        <item itemvalue="Application.fornamejdbc" />
+        <item itemvalue="Application.enum15_5" />
+        <item itemvalue="Application.lambda" />
+        <item itemvalue="Application.anonymous" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613007329209</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2/14">
+      <created>1613360206384</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613360206385</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,7 +193,8 @@
     <MESSAGE value="this is my last update" />
     <MESSAGE value="this is my work from feb 9 day2" />
     <MESSAGE value="this is my work from feb 10 day3" />
-    <option name="LAST_COMMIT_MESSAGE" value="this is my work from feb 10 day3" />
+    <MESSAGE value="2/14" />
+    <option name="LAST_COMMIT_MESSAGE" value="2/14" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/javaprojects$loops5_6.ic" NAME="loops5_6 Coverage Results" MODIFIED="1612889409424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
